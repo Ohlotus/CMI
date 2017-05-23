@@ -11,8 +11,8 @@
   <body>
     <nav>
       <ul>
-        <li><a href="#">A propos </a></li>
-        <li><a href="#">Télécharger</a></li>
+        <li><a href="#">A propos des chats </a></li>
+        <li><a href="#">Télécharger des chats</a></li>
       </ul>
     </nav>
     <header>
